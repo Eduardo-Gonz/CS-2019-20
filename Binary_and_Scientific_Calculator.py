@@ -1,4 +1,4 @@
-print("WELCOME!")
+print("WELCOME TO MY CALCULATOR")
 
 while True: 
     welcome_input = str(input("TO ENTER PROGRAMMING MODE 1 ENTER P. \nTO ENTER PROGRAMMING MODE 2 ENTER M  \nTO ENTER SCIENTIFIC MODE ENTER S  \nOR press any key TO EXIT:  ").capitalize())
